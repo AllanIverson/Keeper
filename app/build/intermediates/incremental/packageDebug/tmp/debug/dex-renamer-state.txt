@@ -1,0 +1,7 @@
+#Sun Sep 08 13:39:50 CST 2019
+base.0=G\:\\Keeper-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=G\:\\Keeper-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0

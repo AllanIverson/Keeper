@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">记账</string>
+    <string name="title_status">Status</string>
+
+    <string name="welcome">欢迎!</string>
+    <string name="clickFabToAdd">点击加号创建一条新纪录</string>
+
+    <string name="daily">日报</string>
+    <string name="monthly">月度</string>
+    <string name="yearly">年度</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+
+    <string name="price">金额</string>
+    <string name="currency_symbol">¥</string>
+    <string name="zero">0.00</string>
+    <string name="type">类型</string>
+    <string name="payout">支出</string>
+    <string name="income">收入</string>
+    <string name="remark">备注</string>
+    <string name="addRemarks">添加备注…</string>
+    <string name="category">分类</string>
+    <string name="date">日期</string>
+    <string name="time">时间</string>
+
+    <string name="add">新建</string>
+    <string name="delete">删除</string>
+    <string name="deleteAll">删除数据库</string>
+    <string name="edit">编辑</string>
+    <string name="search">查找</string>
+    <string name="giveUpOperationQM">放弃本次操作?</string>
+    <string name="confirmDeleteQM">确认删除?</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="done">完成</string>
+    <string name="saved">已保存</string>
+    <string name="deleted">已删除</string>
+    <string name="randomlyAddForTest">随机添加项目(供测试)</string>
+    <string name="total">合计</string>
+    <string name="payoutWithSignal">支出:</string>
+    <string name="incomeWithSignal">收入:</string>
+    <string name="totalWithSignal">合计:</string>
+    <string name="confirmDeleteAll">确认清空数据库?(供测试)</string>
+    <string name="developerMode">开发者选项</string>
+    <string name="openDevMode">打开开发者选项</string>
+    <string name="resetApp">重置应用程序</string>
+    <string name="summary_dev_mode">长按fab随机添加项目,一键删库menu</string>
+    <string name="summary_reset">开启后下次启动App将还原到初始状态</string>
+    <string name="settings">设置</string>
+    <string name="mine">West2Online</string>
+    <string name="emptyListIndicator">空列表图示</string>
+    <string name="recentDisplayAmount">开启应用时最近页显示的天数</string>
+    <string name="availableNextTimeLaunch">下次启动生效</string>
+    <string name="recent">最近</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="home">首页</string>
+
+</resources>

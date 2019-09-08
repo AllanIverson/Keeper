@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="incomeCategory">
+        <item>转账</item>
+        <item>红包</item>
+        <item>生活费</item>
+        <item>奖学金</item>
+        <item>工资</item>
+        <item>其它</item>
+    </string-array>
+
+    <string-array name="payoutCategory">
+        <item>消费</item>
+        <item>餐饮</item>
+        <item>转账</item>
+        <item>购物</item>
+        <item>聚餐</item>
+        <item>电影</item>
+        <item>娱乐</item>
+        <item>缴费</item>
+        <item>学习</item>
+        <item>出行</item>
+        <item>其它</item>
+    </string-array>
+
+    <!--MaterialColors-->
+    <array name="colors">
+        <item>#EB1D64</item>
+        <item>#03A8F5</item>
+        <item>#00BCD4</item>
+        <item>#9D26B0</item>
+        <item>#F64238</item>
+        <item>#CEDB3A</item>
+        <item>#FFEB3D</item>
+        <item>#02968A</item>
+        <item>#8CC34A</item>
+        <item>#3F50B6</item>
+    </array>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:visible="false"
+        android:id="@+id/delete_all"
+        android:icon="@drawable/tb_ic_delete_all_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/deleteAll" />
+    <item
+        android:visible="true"
+        android:id="@+id/search"
+        android:icon="@drawable/tb_ic_search_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/search" />
+</menu>
